@@ -1,0 +1,10 @@
+(float c main()
+	(a = 5)
+	(b = 3)
+	(c = Sumar(a b))
+	(print(c))
+)
+
+(float j Sumar(float k float m)
+	(j = k + m)
+)
